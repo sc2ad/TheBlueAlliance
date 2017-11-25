@@ -1,18 +1,18 @@
 {
-  "name": "__PLaceHolder__",
-  "short_name": "__PLaceHolder__",
-  "description": "__PLaceHolder__",
-  "version": "0.0.1",
-  "version_name": "alpha_prototype",
+  "name": "TBA Handler",
+  "short_name": "TBA Handler",
+  "description": "TBA Handler for The Blue Alliance",
+  "version": "0.0.8",
+  "version_name": "ALPHA",
   "manifest_version": 2,
-  "author": "Ian Hovander",
+  "author": "Sc2ad",
   "icons": { "16": "resources/images/logo_16.png",
              "48": "resources/images/logo_64.png",
              "128": "resources/images/logo_128.png" },
 
   "browser_action": {
     "default_popup": "popup/popup.html",
-	  "default_title": "__PLaceHolder__"
+	  "default_title": "TBA Handler"
   },
   "background": {
     "scripts": ["resources/js/jquery-3.1.1.min.js",
