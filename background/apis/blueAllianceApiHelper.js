@@ -8,6 +8,6 @@ class blueAllianceApiHelper extends apiHelper {
   }
 
   async getAuthHeaders() {
-    return {"X-TBA-Auth-Key": "CocQBM3Tl8qLGM3LXUiZQpitYXS9zemBHIDMnfieDOAwCKSbZSYvAhy1EvB5Y3PD"};
+    return {"X-TBA-Auth-Key": "ZLQKIqhamDBNuDM9UuSJ6ff8xbD9qOyO7q6P494BEmkgQaGTP3w6zMJLV8Wphv0x"};
   }
 }
